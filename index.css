@@ -1,0 +1,307 @@
+.logo img{
+    height: 130px;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+.p{
+    margin-left: 170px;
+    margin-top: 280px;
+    font-size: 25px;
+    animation: float 2s ease-in  backwards;
+}
+.d{
+    margin-top: 30px;
+    margin-left: 170px;
+    font-size: 20px;
+    animation: float 2s ease-out  backwards;
+}
+.l img{
+   margin-left: 940px;
+  margin-top: -250px;
+  animation: float 2s ease-in-out infinite;
+}
+@keyframes float{
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(-20px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+.get{
+    margin-top: -100px;
+    margin-left: 270px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 20px;
+    height: 40px;
+    width: 300px;
+    border-radius: 30px;
+    border-color:rgb(17, 71, 165);
+    color: rgb(17, 71, 165);
+}
+.home{
+   margin-left: 800px;
+   margin-top: -90px;
+   color: rgb(17, 71, 165);
+   
+}
+.started{
+    border-radius: 30px;
+    color:white;
+    margin-top: -25px;
+    width: 200px;
+    margin-left: 1100px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(6, 132, 235);
+    height: 30px;
+}
+.ser{
+    margin-top: 150px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.r{
+    animation: float 2s ease-out  backwards infinite;
+}
+.services{
+    text-align: center;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    font-size:20px;
+    transform: translateY(-10px);
+    box-sizing: border-box;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    height: 500px;
+    width: 200px;
+    margin: 70px;
+    animation: float 2s ease-out  backwards infinite;
+    background-color: rgb(168, 194, 228);
+    
+}
+.i img{
+    margin-top: 15px;
+height: 60px;
+animation: float 2s ease-out  backwards infinite;
+}
+.prod{
+    margin-top: 150px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.buy{
+    animation: float 2s ease-out  backwards infinite;
+}
+.products{
+    text-align: center;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    font-size:20px;
+    transform: translateY(-10px);
+    box-sizing: border-box;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    height: 500px;
+    width: 500px;
+    margin: 100px;
+    animation: float 2s ease-out  backwards infinite;
+    background-color: rgb(168, 194, 228);
+    
+}
+.j img{
+    margin-top: 15px;
+    height: 280px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.we{
+    margin: 500px;
+    margin-top: 100px;
+    margin-left: -190px;
+    text-align: center;
+    font-size: 25px;
+    width: 700px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.he{
+    margin: 500px;
+    margin-top: -670px;
+    margin-left: 800px;
+    text-align: center;
+    font-size: 25px;
+    width: 700px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.k img{
+ margin-top: -450px;
+    height: 880px;
+    width: 880px;
+    animation: float 2s ease-out  backwards infinite;
+
+}
+.hap{
+     margin: 500px;
+    margin-top: -50px;
+    margin-left: -150px;
+    text-align: center;
+    font-size: 28px;
+    width: 700px;
+    font-weight: 400;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    animation: float 2s ease-out  backwards infinite;
+}
+.ject{
+   margin: 500px;
+    margin-top: -560px;
+    margin-left: 800px;
+    text-align: center;
+    font-size: 25px;
+    width: 700px;
+    font-weight: 400;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    animation: float 2s ease-out  backwards infinite;
+}
+.work{
+     margin: 500px;
+    margin-top: -300px;
+    margin-left: -150px;
+    text-align: center;
+    font-size: 25px;
+    width: 700px;
+   font-weight: 400;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    animation: float 2s ease-out  backwards infinite;
+}
+.develop{
+   margin: 500px;
+    margin-top: -560px;
+    margin-left: 800px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    width: 700px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.veb{
+     margin: 500px;
+    margin-top: 180px;
+    margin-left: -190px;
+    text-align: center;
+    font-size: 25px;
+    width: 700px;
+    color:  rgb(23, 42, 66);
+    animation: float 2s ease-out  backwards infinite;
+}
+.tact{
+      margin-top: 350px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.floor{
+    margin: 500px;
+    margin-top: -610px;
+    margin-left: 800px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    width: 700px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.str{
+    margin: 500px;
+    margin-top: -450px;
+    margin-left: 800px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    width: 700px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.mail{
+    margin: 500px;
+    margin-top: -450px;
+    margin-left: 800px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    width: 700px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.num{
+    margin: 500px;
+    margin-top: -450px;
+    margin-left: 800px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    width: 700px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.name{
+    width: 600px;
+    border-radius: 30px;
+    padding: 10px;
+display: flex;
+    margin-top: -600px;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 20px;
+    background-color:rgb(168, 194, 228) ;
+     animation: float 2s ease-out  backwards infinite;
+}
+.email{
+     width: 600px;
+    border-radius: 30px;
+    padding: 10px;
+display: flex;
+    margin-top: -10px;
+    margin-left: 100px;
+    text-align: center;
+    background-color:rgb(168, 194, 228) ;
+    font-weight: 400;
+   font-size: 20px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.sub{
+      width: 600px;
+    border-radius: 30px;
+    padding: 10px;
+display: flex;
+    margin-top: -10px;
+    margin-left: 100px;
+    text-align: center;
+    background-color:rgb(168, 194, 228) ;
+    font-weight: 400;
+   font-size: 20px;
+ animation: float 2s ease-out  backwards infinite;
+}
+.msg{
+      width: 600px;
+    border-radius: 30px;
+    padding: 10px;
+display: flex;
+    margin-top: -10px;
+    margin-left: 100px;
+    text-align: center;
+    background-color:rgb(168, 194, 228) ;
+    font-weight: 400;
+   font-size: 20px;
+    animation: float 2s ease-out  backwards infinite;
+}
+.rd{
+    margin-left: 250px;
+    background-color:rgb(6, 132, 235) ;
+    border-radius: 30px;
+    padding: 10px;
+     width: 300px;
+     animation: float 2s ease-out  backwards infinite;
+}
+    
